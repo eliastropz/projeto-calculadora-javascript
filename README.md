@@ -1,6 +1,6 @@
 # Calculadora JavaScript
 
-[![Acessar Calculadora]](https://eliastropz.github.io/projeto-calculadora-javascript/)
+Acessar Calculadora (https://eliastropz.github.io/projeto-calculadora-javascript/)
 
 Calculadora desenvolvida como exemplo do Curso Completo de JavaScript na Udemy.com.
 
